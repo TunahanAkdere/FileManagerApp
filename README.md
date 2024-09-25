@@ -181,6 +181,3 @@ FileManagerApp hakkında herhangi bir sorunuz veya yorumunuz varsa, lütfen **[T
 
 ---
 
-## **Sonuç** 🎉
-
-Bu README, kullanıcılar ve katkıda bulunanlar için gerekli tüm bilgileri sunar. İyi belgelenmiş bir README, kullanıcıların projeyi anlamalarına ve etkili bir şekilde kullanmalarına yardımcı olurken, potansiyel işbirlikçileri çekmeye de yardımcı olur. 🚀
