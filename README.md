@@ -73,6 +73,7 @@ FileManagerApp was created by **[Tunahan Akdere](https://github.com/TunahanAkder
 
 **Q:** How do I contribute to FileManagerApp?  
 **A:** Follow the contributing guidelines in the README file. 🤝
+
 ---
 
 ## **Changelog** 📅
